@@ -27,7 +27,7 @@ good place to start.
 ## Install
 
 ```fish
-$ omf install proxy
+$ fisher install proxy
 ```
 
 
